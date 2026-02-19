@@ -57,8 +57,8 @@
     "date-fns": "^3.6.0",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.36.0",
-    "eslint": "^9.32.0",
-    "eslint-config-next": "^15.4.5",
+    "eslint": "^10.0.0",
+    "eslint-config-next": "^16.1.6",
     "framer-motion": "^10.12.18",
     "html-react-parser": "^5.1.10",
     "isomorphic-dompurify": "^2.14.0",
@@ -67,7 +67,7 @@
     "mailersend": "^2.3.0",
     "music-metadata": "^11.0.2",
     "mysql2": "^3.11.3",
-    "next": "15.1.6",
+    "next": "^16.1.6",
     "next-turnstile": "^1.0.5",
     "nextjs-toploader": "^1.4.2",
     "ofetch": "^1.4.1",
@@ -107,13 +107,13 @@
     "@types/uuid": "^9.0.2",
     "autoprefixer": "^10.4.21",
     "cross-env": "^7.0.3",
-    "drizzle-kit": "^0.27.2",
+    "drizzle-kit": "^0.31.9",
     "postcss": "^8.5.6",
     "prettier": "^3.6.2",
     "prettier-plugin-tailwindcss": "^0.6.14",
     "tailwindcss": "^4.1.11",
     "tailwindcss-intersect": "^1.0.5",
     "tsx": "^4.19.2",
-    "vitest": "^2.1.5"
+    "vitest": "^4.0.18"
   }
 }
